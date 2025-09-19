@@ -41,16 +41,16 @@ Models and textures are not included. To see the full experience, add your own .
 This lightweight version is perfect for reviewing the code, learning the implementation, or showing off logic and structure without large files.
 ✨ Built for learning, portfolio, and fun with Three.js magic ✨
 
-
 ## 🎮 How to Run
 
 ```bash
 # Clone the repo
-git clone <your-repo-url>
+git clone https://github.com/elunedfaezeh/3Droom.git
 
 # Install dependencies
 npm install
 
 # Start the dev server
 npm run dev
+
 
