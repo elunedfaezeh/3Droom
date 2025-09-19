@@ -1,5 +1,5 @@
 # 🏠 3D Interactive Room (Vite + Three.js)
-![Interactive Room Demo](./public/README/photo-output.png)
+![Demo](https://github.com/user-attachments/assets/29e02ec9-0c4c-406b-9609-d3a59c2cb8d6)
 
 
 This project is a fully interactive **3D room** built with **Vite** and **Three.js**.  
